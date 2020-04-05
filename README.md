@@ -8,7 +8,6 @@
 
 > Probar en <https://editor.p5js.org/bertoramos/full/yrYN2y1OH>
 
-<iframe src="https://editor.p5js.org/bertoramos/embed/yrYN2y1OH"></iframe>
 
 El objetivo de esta práctica es desarrollar un programa de dibujo utilizando [*P5JS*](https://p5js.org).
 
